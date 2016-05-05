@@ -17,5 +17,5 @@
     "express": "^4.13.3",
     "sugar": "^1.4.1"
   },
-  "devDependencies": {},
+  "devDependencies": {}
 }
